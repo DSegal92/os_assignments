@@ -1,0 +1,178 @@
+
+ ** NOTE: This printout is only a visual guide, due to the discrepancy 
+ between printing to output and actual computation this may not be accurate ** 
+
+THREAD  |  Action    |  Current Time  |    	Status 	       |   Crossed   | Pending 
+_____________________________________________________________________________________ 
+   26   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+    1   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   34   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+   27   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+    2   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   28   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+    3   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   29   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+    4   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   30   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     0 
+    5   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   35   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+    0   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+   36   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   37   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   38   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   39   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   40   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   41   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+   42   |  Arrival   |  23:06:39:847  |  New Baboon on Side B  |      0      |     0 
+    6   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     0 
+    2   |  Waiting   |  23:06:39:847  |          -             |      0      |     0 
+    4   |  Waiting   |  23:06:39:847  |          -             |      0      |     0 
+    5   |  Waiting   |  23:06:39:847  |          -             |      0      |     1 
+    7   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     1 
+    8   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     2 
+    9   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     2 
+   10   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     2 
+   11   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     2 
+   12   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     2 
+   13   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   14   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   15   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   16   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   17   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   18   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   19   |  Arrival   |  23:06:39:846  |  New Baboon on Side A  |      0      |     3 
+   20   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   21   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+    0   |  Waiting   |  23:06:39:847  |          -             |      0      |     3 
+   22   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   23   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   24   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   25   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   31   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   32   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   33   |  Arrival   |  23:06:39:846  |  New Baboon on Side B  |      0      |     3 
+   41   |  Waiting   |  23:06:39:847  |          -             |      0      |     3 
+    6   |  Waiting   |  23:06:39:847  |          -             |      0      |     3 
+    2   |  Crossing  |  23:06:39:847  |  Crossing from A -> B  |      0      |     3 
+    4   |  Crossing  |  23:06:39:847  |  Crossing from A -> B  |      0      |     3 
+    5   |  Crossing  |  23:06:39:847  |  Crossing from A -> B  |      0      |     3 
+    9   |  Waiting   |  23:06:39:847  |          -             |      0      |     3 
+   10   |  Waiting   |  23:06:39:848  |          -             |      0      |     3 
+   11   |  Waiting   |  23:06:39:848  |          -             |      0      |     3 
+   19   |  Waiting   |  23:06:39:848  |          -             |      0      |     3 
+    0   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     4 
+   22   |  Waiting   |  23:06:39:848  |          -             |      0      |     4 
+   23   |  Waiting   |  23:06:39:848  |          -             |      0      |     4 
+   32   |  Waiting   |  23:06:39:848  |          -             |      0      |     4 
+   41   |  Crossing  |  23:06:39:848  |  Crossing from B -> A  |      0      |     6 
+    6   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     6 
+    9   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     7 
+   10   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     9 
+   11   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     9 
+   19   |  Crossing  |  23:06:39:848  |  Crossing from A -> B  |      0      |     10 
+    0   |  Success   |  23:06:39:848  |   Finished crossing    |      0      |     11 
+   22   |  Crossing  |  23:06:39:848  |  Crossing from B -> A  |      0      |     11 
+   23   |  Crossing  |  23:06:39:848  |  Crossing from B -> A  |      0      |     13 
+   32   |  Crossing  |  23:06:39:848  |  Crossing from B -> A  |      0      |     13 
+   23   |  Success   |  23:06:39:848  |   Finished crossing    |      1      |     12 
+   37   |  Waiting   |  23:06:40:848  |          -             |      2      |     11 
+   34   |  Waiting   |  23:06:40:848  |          -             |      2      |     11 
+   38   |  Waiting   |  23:06:40:848  |          -             |      2      |     12 
+   40   |  Waiting   |  23:06:40:848  |          -             |      2      |     12 
+   42   |  Waiting   |  23:06:40:848  |          -             |      2      |     14 
+   29   |  Waiting   |  23:06:40:848  |          -             |      2      |     15 
+   39   |  Waiting   |  23:06:40:848  |          -             |      2      |     16 
+    8   |  Waiting   |  23:06:40:848  |          -             |      2      |     17 
+   13   |  Waiting   |  23:06:40:848  |          -             |      2      |     17 
+   37   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     17 
+   14   |  Waiting   |  23:06:40:848  |          -             |      2      |     18 
+   34   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     18 
+   38   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     18 
+   40   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     19 
+   42   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     19 
+   29   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     19 
+   39   |  Crossing  |  23:06:40:848  |  Crossing from B -> A  |      2      |     19 
+    8   |  Crossing  |  23:06:40:848  |  Crossing from A -> B  |      2      |     19 
+   13   |  Crossing  |  23:06:40:848  |  Crossing from A -> B  |      2      |     20 
+   37   |  Success   |  23:06:40:848  |   Finished crossing    |      2      |     20 
+   14   |  Crossing  |  23:06:40:848  |  Crossing from A -> B  |      2      |     21 
+   42   |  Success   |  23:06:40:848  |   Finished crossing    |      2      |     21 
+   13   |  Success   |  23:06:40:848  |   Finished crossing    |      3      |     20 
+   14   |  Success   |  23:06:40:849  |   Finished crossing    |      3      |     20 
+   20   |  Waiting   |  23:06:40:849  |          -             |      6      |     17 
+   24   |  Waiting   |  23:06:40:849  |          -             |      6      |     18 
+   17   |  Waiting   |  23:06:40:849  |          -             |      6      |     18 
+   21   |  Waiting   |  23:06:40:849  |          -             |      6      |     20 
+   11   |  Success   |  23:06:40:849  |   Finished crossing    |      6      |     20 
+   31   |  Waiting   |  23:06:40:849  |          -             |      6      |     21 
+    5   |  Success   |  23:06:40:849  |   Finished crossing    |      6      |     21 
+   41   |  Success   |  23:06:40:849  |   Finished crossing    |      6      |     21 
+   19   |  Success   |  23:06:40:849  |   Finished crossing    |      6      |     21 
+   10   |  Success   |  23:06:40:849  |   Finished crossing    |      6      |     21 
+   20   |  Crossing  |  23:06:40:849  |  Crossing from B -> A  |      7      |     20 
+   24   |  Crossing  |  23:06:40:849  |  Crossing from B -> A  |      7      |     20 
+   17   |  Crossing  |  23:06:40:849  |  Crossing from A -> B  |      7      |     20 
+   21   |  Crossing  |  23:06:40:849  |  Crossing from B -> A  |      7      |     20 
+   31   |  Crossing  |  23:06:40:849  |  Crossing from B -> A  |      7      |     21 
+   20   |  Success   |  23:06:40:849  |   Finished crossing    |      11     |     17 
+    1   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+   35   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+   26   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+   36   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+   27   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+   28   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+    3   |  Waiting   |  23:06:41:848  |          -             |      12     |     16 
+    7   |  Waiting   |  23:06:41:848  |          -             |      12     |     17 
+   30   |  Waiting   |  23:06:41:848  |          -             |      12     |     17 
+   12   |  Waiting   |  23:06:41:848  |          -             |      12     |     17 
+    1   |  Crossing  |  23:06:41:848  |  Crossing from A -> B  |      12     |     17 
+   35   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     18 
+   26   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     19 
+   36   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     21 
+   27   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     21 
+   28   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     23 
+    3   |  Crossing  |  23:06:41:848  |  Crossing from A -> B  |      12     |     23 
+    7   |  Crossing  |  23:06:41:848  |  Crossing from A -> B  |      12     |     24 
+   30   |  Crossing  |  23:06:41:848  |  Crossing from B -> A  |      12     |     25 
+   12   |  Crossing  |  23:06:41:848  |  Crossing from A -> B  |      12     |     26 
+   35   |  Success   |  23:06:41:848  |   Finished crossing    |      12     |     26 
+   27   |  Success   |  23:06:41:848  |   Finished crossing    |      12     |     26 
+    7   |  Success   |  23:06:41:848  |   Finished crossing    |      12     |     26 
+   12   |  Success   |  23:06:41:848  |   Finished crossing    |      12     |     26 
+   34   |  Success   |  23:06:41:849  |   Finished crossing    |      16     |     22 
+   16   |  Waiting   |  23:06:41:849  |          -             |      16     |     22 
+   15   |  Waiting   |  23:06:41:849  |          -             |      16     |     22 
+   38   |  Success   |  23:06:41:849  |   Finished crossing    |      16     |     22 
+   18   |  Waiting   |  23:06:41:849  |          -             |      16     |     22 
+   25   |  Waiting   |  23:06:41:849  |          -             |      16     |     22 
+   40   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+   33   |  Waiting   |  23:06:41:849  |          -             |      17     |     22 
+    4   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+    2   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+    6   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+    8   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+    9   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     22 
+   22   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     23 
+   32   |  Success   |  23:06:41:849  |   Finished crossing    |      17     |     23 
+   16   |  Crossing  |  23:06:41:849  |  Crossing from A -> B  |      17     |     23 
+   15   |  Crossing  |  23:06:41:849  |  Crossing from A -> B  |      17     |     23 
+   18   |  Crossing  |  23:06:41:849  |  Crossing from A -> B  |      18     |     23 
+   25   |  Crossing  |  23:06:41:849  |  Crossing from B -> A  |      18     |     24 
+   33   |  Crossing  |  23:06:41:849  |  Crossing from B -> A  |      20     |     23 
+   25   |  Success   |  23:06:41:849  |   Finished crossing    |      26     |     17 
+   17   |  Success   |  23:06:41:850  |   Finished crossing    |      27     |     16 
+   24   |  Success   |  23:06:41:850  |   Finished crossing    |      28     |     15 
+   21   |  Success   |  23:06:41:850  |   Finished crossing    |      28     |     15 
+   31   |  Success   |  23:06:41:850  |   Finished crossing    |      29     |     14 
+   30   |  Success   |  23:06:42:849  |   Finished crossing    |      31     |     12 
+    1   |  Success   |  23:06:42:849  |   Finished crossing    |      31     |     12 
+   29   |  Success   |  23:06:42:849  |   Finished crossing    |      31     |     12 
+   39   |  Success   |  23:06:42:849  |   Finished crossing    |      31     |     12 
+   26   |  Success   |  23:06:42:849  |   Finished crossing    |      32     |     11 
+   16   |  Success   |  23:06:42:850  |   Finished crossing    |      36     |     7 
+   28   |  Success   |  23:06:43:849  |   Finished crossing    |      37     |     6 
+    3   |  Success   |  23:06:43:849  |   Finished crossing    |      37     |     6 
+   36   |  Success   |  23:06:43:849  |   Finished crossing    |      37     |     6 
+   18   |  Success   |  23:06:43:850  |   Finished crossing    |      40     |     3 
+   15   |  Success   |  23:06:43:850  |   Finished crossing    |      40     |     3 
+   33   |  Success   |  23:06:43:850  |   Finished crossing    |      40     |     3 

@@ -1,0 +1,4 @@
+Run the program with ./baboons
+Program randomly generates [18, 23] baboons on either side.
+
+There is a memory leak, but I was unable to fix it.

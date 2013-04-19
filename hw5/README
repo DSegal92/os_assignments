@@ -1,0 +1,29 @@
+No special instructions for running this program. Just run ./main, and it will randomly
+create 15 atoms, which should theoretically yield 5 bonds. 
+
+When I attempted to run this code on the linab4 server it told me that there were no more 
+sempahores. That seemed ominous and I didn't have time to contact anybody about getting 
+that fixed, but it runs fine locally.
+
+Output (For some reason I could not get the line indicating a bond to print to the console, 
+but I have added it here just for clarity.)
+
+PID 71008: Creating Oxygen
+PID 71009: Creating Oxygen
+PID 71010: Creating Hydrogen
+PID 71011: Creating Oxygen
+PID 71013: Creating Hydrogen
+------ Bonding -------
+PID 71014: Creating Oxygen
+PID 71015: Creating Oxygen
+PID 71016: Creating Hydrogen
+PID 71017: Creating Hydrogen
+------ Bonding -------
+PID 71019: Creating Hydrogen
+PID 71020: Creating Oxygen
+PID 71021: Creating Hydrogen
+------ Bonding -------
+PID 71022: Creating Hydrogen
+PID 71023: Creating Oxygen
+PID 71025: Creating Oxygen
+------ Removing unused atoms -------

@@ -1,0 +1,4 @@
+1. You would not normally implement mergesort as was done in this assignment because it would be
+massively impractical for any message longer than a few dozen characters. A computer has a finite
+default number of processes and any particularly message would cross this. Also, a piping and fork
+based solution is inherently more error susceptible than traditional merge sort methods.

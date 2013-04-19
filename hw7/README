@@ -1,0 +1,2 @@
+No special instructions, run ./agent first, then arbitrary number of smokers in format
+	./smoker [hostname] [tobacco_requested] [paper_requested] [matches_requested]

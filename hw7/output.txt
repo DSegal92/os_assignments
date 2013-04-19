@@ -1,0 +1,37 @@
+Resources Left: P=0, T=0, M=0
+REQUESTING 2 PAPER 
+Resources Left: P=0, T=2, M=0
+REQUESTING 4 TOBACCO 
+Resources Left: P=4, T=2, M=0
+REQUESTING 3 MATCHES 
+Resources Left: P=4, T=2, M=3
+-------- Smoking! -------- 
+Resources Left: P=3, T=1, M=2
+-------- Smoking! -------- 
+Resources Left: P=2, T=0, M=1
+REQUESTING 2 PAPER 
+Resources Left: P=2, T=2, M=1
+-------- Smoking! -------- 
+Resources Left: P=1, T=1, M=0
+REQUESTING 3 MATCHES 
+Resources Left: P=1, T=1, M=3
+-------- Smoking! -------- 
+Resources Left: P=0, T=0, M=2
+REQUESTING 2 PAPER 
+Resources Left: P=0, T=2, M=2
+REQUESTING 4 TOBACCO 
+Resources Left: P=4, T=2, M=2
+-------- Smoking! -------- 
+Resources Left: P=3, T=1, M=1
+-------- Smoking! -------- 
+Resources Left: P=2, T=0, M=0
+REQUESTING 2 PAPER 
+Resources Left: P=2, T=2, M=0
+REQUESTING 3 MATCHES 
+Resources Left: P=2, T=2, M=3
+-------- Smoking! -------- 
+Resources Left: P=1, T=1, M=2
+-------- Smoking! -------- 
+Resources Left: P=0, T=0, M=1
+REQUESTING 2 PAPER 
+PAPER GONE, NOW I WILL KILL MYSELF 
