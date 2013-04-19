@@ -1,0 +1,2 @@
+EECS 338. Introduction to Operating Systems
+CPU scheduling, memory management, concurrent processes, semaphores, monitors, deadlocks, secondary storage management, file systems, protection, UNIX operating system, fork, exec, wait, UNIX System V IPCs, sockets, remote procedure calls, threads. Must be proficient in “C” programming language.
